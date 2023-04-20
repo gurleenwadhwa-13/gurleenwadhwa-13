@@ -6,7 +6,7 @@
 
 - I'm Gurleen Wadhwa, an aspiring CS Student at Dalhousie University. 
 - I have interests in Algorithms, Compilers and Distributed Systems.
-- I'm currently working on a [**`Music Streaming Service Webapp`**] using ReactJS and MongoDB.
+- I'm currently working on a **`Music Streaming Service Webapp`** using ReactJS and MongoDB.
 - I have programmed in Java, C++/C, Python, SQL, and x86-64 Assembly.
 
 
