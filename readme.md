@@ -6,7 +6,7 @@
 
 - I'm Gurleen Wadhwa, an aspiring CS Student at Dalhousie University. 
 - I have interests in Algorithms, Compilers and Distributed Systems.
-- I have programmed in Java, C++/C, Python, Javascript, and x86-64 AT&T Assembly.
+- I have programmed in Java, C, Javascript, and x86-64 AT&T Assembly.
 
 #
 ### 🧰 Languages and Tools
