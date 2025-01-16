@@ -5,9 +5,8 @@
 ## About Me
 
 - I'm Gurleen Wadhwa, a Junior Software Engineer with 1.5 years of experience in seed-stage startup.
-- I have worked professionaly in small fast paced agile teams as full stack engineer, and proficient in JS, React, Python, Flask, MongoDB, AWS
+- I have worked professionaly in small fast paced agile teams as full stack engineer, and proficient in JS, React, Python, Flask, MongoDB, AWS. 
 - Currently diving my handds in Web Development and a bit of Web3.
-- 
 - I have programmed in Java, C, Javascript, and x86-64 AT&T Assembly in University and always looking for new challenges in these domains.
 
 #
