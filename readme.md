@@ -35,13 +35,13 @@
 ## 📬 Connect with Me
 
 <p align="left">
-  <a href="https://twitter.com/gurleenwadhwa1" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+  <a href="https://x.com/gurleenwadhwa1" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://www.linkedin.com/in/gurleenwadhwa/" target="_blank">
+  <a href="https://www.linkedin.com/in/gurleen-wadhwa-56829a1a0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:gurleenwadhwa13@gmail.com" target="_blank">
+  <a href="mailto:gurleenwadhwa3@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
