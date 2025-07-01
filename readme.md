@@ -4,27 +4,23 @@
 
 ## About Me
 
-- I'm Gurleen Wadhwa, a Junior Software Engineer with 1.5 years of experience in seed-stage startup.
-- I have worked professionaly in small fast paced agile teams as full stack engineer, and proficient in Typescript, Javascript, React, Python, Flask, MongoDB, AWS. 
-- Currently diving deep in Web Dev and AI Agents.
-- I have programmed in Java, C, Javascript, Python and x86-64 AT&T Assembly in University and always looking for new challenges in these domains. I am interested in Compilers, API Development, Distributed Systems and Database Internals.
+- 🔭 I’m currently working on [WhyImBroke](https://whyimbroke.tech/)
 
-#
-### 🧰 Languages and Tools
+- 🌱 I’m currently learning **Next.js, WebRTC, Web-sockets**
 
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
-#
+- 👯 I’m looking to collaborate on **Next.js, TypeScript, React Projects**
+
+- 💬 Ask me about **Software Engineering, Low level C++, Product Development**
+
+- I am interested in Compilers, API Development, Distributed Systems and Database Internals.
+
+- <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/gurleenwadhwa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gurleenwadhwa1" height="30" width="40" /></a>
+</p>
 
 ### 📊 Stats
 
-![Gurleen's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurleenwadhwa-13&show_icons=true&theme=gruvbox)
-
-
-
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gurleenwadhwa-13&theme=vue-dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gurleenwadhwa-13&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gurleenwadhwa-13&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
