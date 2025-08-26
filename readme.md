@@ -35,10 +35,10 @@
 ## 📬 Connect with Me
 
 <p align="left">
-  <a href="https://x.com/gurleenwadhwa1" target="_blank">
+  <a href="https://x.com/gurleenwadhwa" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://www.linkedin.com/in/gurleen-wadhwa-56829a1a0/" target="_blank">
+  <a href="https://www.linkedin.com/in/gurleenwadhwa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
