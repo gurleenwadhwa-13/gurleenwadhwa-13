@@ -13,22 +13,11 @@
 - 🌱 Learning **Next.js**, **WebRTC**, and **WebSockets** to level up my full-stack game.
 - 👯 Looking to collaborate on **React**, **Next.js**, **TypeScript** projects.
 - 💬 Ask me about:
-  - Software engineering workflows
-  - Low-level C++
   - Product development
+  - Software engineering 
+  - Low Latency Trading Systems (Learning Rust...)
 
 > 🧠 I’m deeply interested in compilers, distributed systems, API design, and database internals.
-
----
-
-## 🛠 Tech Stack
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
