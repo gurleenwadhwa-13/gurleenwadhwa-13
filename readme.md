@@ -2,31 +2,17 @@
 
 <p align="center">
   <b>Software Engineer - TypeScript, Python and Go</b><br/>
-  Passionate about building resilient systems and delightful web experiences.
+  Passionate about building resilient software systems and SaaS software.
 </p>
 
 ---
 
-## 🚀 About Me
-
+- I write TypeScript, Go
 - Currently building [**WhyImBroke**](https://whyimbroke.tech/), an AI-powered finance app to help people manage money better.
+- Learning Zig to work at Bun-JavaScript.
 
-- 💬 Ask me about:
-  - Product development
-  - Software engineering 
-
-> 🧠 I’m deeply interested in compilers, distributed systems, and database internals.
 ---
 
-## 📬 Connect with Me
-
-<p align="left">
-  <a href="https://x.com/gurleenwadhwa" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://www.linkedin.com/in/gurleenwadhwa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+> I'm interested in Distributed Systems and Systems Level Programming.
 
 ---
