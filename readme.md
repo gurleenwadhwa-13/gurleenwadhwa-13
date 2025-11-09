@@ -7,9 +7,8 @@
 
 ---
 
-- I write TypeScript, Go
+- I write TypeScript, Go and Python
 - Currently building [**WhyImBroke**](https://whyimbroke.tech/), an AI-powered finance app to help people manage money better.
-- Learning Zig to work at Bun-JavaScript.
 
 ---
 
