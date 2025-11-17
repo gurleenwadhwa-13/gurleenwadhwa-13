@@ -8,7 +8,8 @@
 ---
 
 - I write TypeScript, Go and Python.
-- Currently building [**WhyImBroke**](https://whyimbroke.tech/), an AI-powered finance app to help people manage money better.
+- Currently building [**WhyImBroke**](https://whyimbroke.tech/), a CFO Level Personal Finance AI Advisor at your service.
+- Learning about turborepo, web hooks and distributed systems.
 
 ---
 
