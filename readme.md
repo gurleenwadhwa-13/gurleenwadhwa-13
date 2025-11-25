@@ -13,6 +13,6 @@
 
 ---
 
-> I'm interested in learning Distributed Systems and Systems Level Programming.
+> I'm interested in Distributed Systems and Systems Level Programming.
 
 ---
